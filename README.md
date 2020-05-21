@@ -1,8 +1,7 @@
 # fetch-nested-value
 
-Given an array, shuffle its content randomly. Note that the original array is not affected
+Given an array, shuffles a cloned copy, and returns it. [(Fisher–Yates method)](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#The_modern_algorithm)
 
-This does the [Fisher–Yates shuffle underneath the hood](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#The_modern_algorithm)
 This does not aim for true perfect randomness. Just to be good enough and fast
 
 # npm install

@@ -1,7 +1,7 @@
 {
 	"name": "@js-util/array-shuffle",
-	"version": "1.0.0",
-	"description": "Given an array, shuffle its content randomly. Note that the original array is not affected (Fisher–Yates method)",
+	"version": "1.0.1",
+	"description": "Given an array, shuffles a cloned copy, and returns it. (Fisher–Yates method)",
 
 	"keywords": [
 		"array",
