@@ -13,7 +13,7 @@
  */
 function arrayShuffle(array) {
 	// Clone the array
-	array = arrays.slice(0);
+	array = array.slice(0);
 
 	// Shuffle it
 	for (let i = array.length - 1; i > 0; i--) {
