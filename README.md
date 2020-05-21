@@ -10,7 +10,7 @@ This does not aim for true perfect randomness. Just to be good enough and fast
 # npm install
 
 ```.bash
-npm install --save @js-util/fetch-nested-value
+npm install --save @js-util/array-shuffle
 ```
 
 # Example usage
